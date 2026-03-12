@@ -1,0 +1,4 @@
+jetson_nano_cross/Linux_for_Tegra/rootfs/
+*.img
+*.zip
+*.deb
